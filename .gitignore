@@ -3,3 +3,4 @@ data/
 
 # Ignore the env folder
 .project_analysis/
+*.pyc
